@@ -1,1 +1,2 @@
-# full_stack_developer_project
+# online-bookstore
+Online bookstore with admin panel
